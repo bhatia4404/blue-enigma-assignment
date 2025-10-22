@@ -1,0 +1,19 @@
+# Core database and graph visualization libraries (from original)
+neo4j
+pyvis==0.3.1
+networkx==3.1
+python-dotenv
+
+# Pinecone client (updated to a modern version)
+pinecone-client==4.1.0
+
+# Utility for progress bars (from original)
+tqdm
+
+# --- New Additions for Local Model Pipeline ---
+
+# For local sentence embeddings
+sentence-transformers==2.7.0
+
+# For local LLM chat via Ollama
+ollama==0.2.1
