@@ -6,6 +6,11 @@ This project implements a hybrid AI travel assistant that answers user queries a
 
 The initial goal was to debug and complete a semi-functional system. The system originally relied on OpenAI APIs for embeddings and chat generation. However, due to API quota limitations (`insufficient_quota`), a major re-engineering effort was undertaken.
 
+## Workflow
+<img width="909" height="445" alt="hybrid-workflow" src="https://github.com/user-attachments/assets/b26a1de0-c27c-4cbe-b0c9-2b99faa407a1" />
+
+
+
 ## Final Architecture & Key Improvements
 
 The final version of this project achieves the original goal while making significant improvements:
