@@ -1,4 +1,4 @@
-# Blue Enigma - Hybrid AI Travel Assistant
+# Hybrid AI Travel Assistant
 
 This project implements a hybrid AI travel assistant that answers user queries about Vietnam travel. It utilizes a combination of semantic vector search (Pinecone) and knowledge graph context (Neo4j) to provide relevant information, which is then synthesized by a Large Language Model (LLM) into a coherent answer.
 
